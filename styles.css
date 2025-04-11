@@ -1,0 +1,18 @@
+* {
+  color: black;
+  background-color: antiquewhite;
+}
+
+form {
+  width: 25%;
+  padding: 1%;
+  margin: auto;
+  margin-top: 5em;
+}
+
+div {
+  width: 90%;
+  margin: auto;
+  padding: 2%;
+}
+
